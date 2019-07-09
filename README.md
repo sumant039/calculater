@@ -1,2 +1,2 @@
 # calculater
-CalculaterProgram
+Simple Calculater program using Class 
